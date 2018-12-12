@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<configuration>
+
+    <property>
+        <name>dfs.namenode.name.dir</name>
+        <value>file:///root/hdfs/namenode</value>
+        <description>NameNode directory for namespace and transaction logs storage.</description>
+    </property>
+
+    <property>
+        <name>dfs.datanode.data.dir</name>
+        <value>file:///root/hdfs/datanode</value>
+        <description>DataNode directory</description>
+    </property>
+
+    <property>
+        <name>dfs.replication</name>
+        <value>2</value>
+    </property>
+
+    <property>
+        <name>dfs.blocksize</name>
+        <value>134217728</value>
+    </property>
+<!--
+    <property>
+        <name>dfs.hosts</name>
+        <value>h2</value>
+    </property>
+
+    <property>
+        <name>dfs.namenode.handler.count</name>
+        <value>100</value>
+    </property>
+-->
+</configuration>
