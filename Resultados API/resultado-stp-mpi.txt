@@ -1,0 +1,195 @@
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+  Time step = 0.000028696051423324
+
+  Convergence = 0.100000000 after 3552 steps
+
+  Problem size = 32768
+
+  Wall Clock =       26.928255
+
+  Computed solution in outputPar.dat
+
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+  Time step = 0.000028696051423324
+
+  Convergence = 0.100000000 after 3552 steps
+
+  Problem size = 32768
+
+  Wall Clock =       27.193583
+
+  Computed solution in outputPar.dat
+
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+  Time step = 0.000028696051423324
+
+  Convergence = 0.100000000 after 3552 steps
+
+  Problem size = 32768
+
+  Wall Clock =       27.130815
+
+  Computed solution in outputPar.dat
+
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+  Time step = 0.000028696051423324
+
+  Convergence = 0.100000000 after 3552 steps
+
+  Problem size = 32768
+
+  Wall Clock =       27.141658
+
+  Computed solution in outputPar.dat
+
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+  Time step = 0.000028696051423324
+
+  Convergence = 0.100000000 after 3552 steps
+
+  Problem size = 32768
+
+  Wall Clock =       27.091025
+
+  Computed solution in outputPar.dat
+
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+  Time step = 0.000028696051423324
+
+  Convergence = 0.100000000 after 3552 steps
+
+  Problem size = 32768
+
+  Wall Clock =       26.880265
+
+  Computed solution in outputPar.dat
+
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+  Time step = 0.000028696051423324
+
+  Convergence = 0.100000000 after 3552 steps
+
+  Problem size = 32768
+
+  Wall Clock =       27.098940
+
+  Computed solution in outputPar.dat
+
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+  Time step = 0.000028696051423324
+
+  Convergence = 0.100000000 after 3552 steps
+
+  Problem size = 32768
+
+  Wall Clock =       27.236593
+
+  Computed solution in outputPar.dat
+
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+  Time step = 0.000028696051423324
+
+  Convergence = 0.100000000 after 3552 steps
+
+  Problem size = 32768
+
+  Wall Clock =       27.186545
+
+  Computed solution in outputPar.dat
+
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+  Time step = 0.000028696051423324
+
+  Convergence = 0.100000000 after 3552 steps
+
+  Problem size = 32768
+
+  Wall Clock =       27.200633
+
+  Computed solution in outputPar.dat
+
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+  Time step = 0.000028696051423324
+
+  Convergence = 0.100000000 after 3552 steps
+
+  Problem size = 32768
+
+  Wall Clock =       27.126185
+
+  Computed solution in outputPar.dat
+
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+  Time step = 0.000028696051423324
+
+  Convergence = 0.100000000 after 3552 steps
+
+  Problem size = 32768
+
+  Wall Clock =       27.013027
+
+  Computed solution in outputPar.dat
+
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+  Time step = 0.000028696051423324
+
+  Convergence = 0.100000000 after 3552 steps
+
+  Problem size = 32768
+
+  Wall Clock =       26.945013
+
+  Computed solution in outputPar.dat
+
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+  Time step = 0.000028696051423324
+
+  Convergence = 0.100000000 after 3552 steps
+
+  Problem size = 32768
+
+  Wall Clock =       27.265025
+
+  Computed solution in outputPar.dat
+
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+  Time step = 0.000028696051423324
+
+  Convergence = 0.100000000 after 3552 steps
+
+  Problem size = 32768
+
+  Wall Clock =       27.263229
+
+  Computed solution in outputPar.dat
+
